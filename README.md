@@ -2,4 +2,4 @@
 
 ![Alt text](https://github.com/freddyvillabona/CO2_PIB_Population/blob/master/image.svg)
 
-data: gapminder (2020) 
+Data: gapminder (2020) 
